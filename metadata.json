@@ -2,5 +2,6 @@
   "owner": "peter-evans",
   "name": "repository-dispatch",
   "visibility": "internal",
-  "description": "A GitHub action to create a repository dispatch event"
+  "description": "A GitHub action to create a repository dispatch event",
+  "block_publish": false
 }

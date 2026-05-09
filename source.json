@@ -1,4 +1,6 @@
 {
-  "upstream": "peter-evans/repository-dispatch",
-  "version": "v4.0.1"
+  "owner": "peter-evans",
+  "repo": "repository-dispatch",
+  "version": "",
+  "url": "https://github.com/peter-evans/repository-dispatch"
 }
